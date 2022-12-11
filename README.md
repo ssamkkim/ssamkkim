@@ -7,7 +7,7 @@ Software Engineer
 I'm a freshman in college who has been teaching myself how to code...
 
 * 🌍  I'm based in California
-* 🖥️  See my portfolio at [link](http://http://samuel-kim-portfolio.netlify.app/)
+* 🖥️  See my portfolio at this [link](http://http://samuel-kim-portfolio.netlify.app/)
 * 🚀  I'm currently working on [League Customs](http://https://github.com/ssamkkim/league-customs)
 * 🧠  I'm learning TypeScript and Supabase currently
 
