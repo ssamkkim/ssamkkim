@@ -4,9 +4,9 @@
   <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ssamkkim" />
 </p> -->
 
-**`Software Engineer (Web Developer)`**
+**`Software Engineer`**
 
-I'm an self-taught full-stack developer that specializes in frontend web. Don't really know what else to say about myself _yet_, but check out everything about me and what I've made. 👇👇👇
+I'm a self-taught full-stack developer that specializes in frontend. Don't really know what else to say about myself **_yet_**, but check out everything about me and what I've made. 👇👇👇
 
 <p>
   <a href="https://www.twitter.com/scammoXX" target="_blank" rel="noreferrer"><img
@@ -22,14 +22,8 @@ I'm an self-taught full-stack developer that specializes in frontend web. Don't 
 
 ---
 
-<!-- Languages and Tools -->
-
 ## 🧰 Languages and Tools
 
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
@@ -69,16 +63,10 @@ I'm an self-taught full-stack developer that specializes in frontend web. Don't 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
-</div>
-<br>
-
-#
 
 <!-- Statistics -->
 
 ## 📊 Stats
-
-<br>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssamkkim&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
