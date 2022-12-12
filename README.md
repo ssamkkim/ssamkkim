@@ -12,7 +12,7 @@ I'm an self-taught full-stack developer that specializes in frontend web. Don't 
   <a href="https://www.twitter.com/scammoXX" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/twitter/follow/scammoXX?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
   /></a>
-  <a href="https://www.twitter.com/scammo_XX_" target="_blank" rel="noreferrer"><img
+  <a href="https://www.twitter.com/scammo_" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/twitter/follow/scammo_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
   /></a>
   <!-- <a href="https://www.linkedin.com/in/samuel-kim-a1b1a1252/">
@@ -24,8 +24,8 @@ I'm an self-taught full-stack developer that specializes in frontend web. Don't 
 
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">🧰 Languages and Tools</h2>
-<br>   
+## 🧰 Languages and Tools
+
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
@@ -34,7 +34,7 @@ I'm an self-taught full-stack developer that specializes in frontend web. Don't 
       <img  alt="JavaScript" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="40px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+      <img  alt="TypeScript" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -69,27 +69,20 @@ I'm an self-taught full-stack developer that specializes in frontend web. Don't 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
-
 </div>
-
 <br>
 
 #
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Stats</h2>
+## 📊 Stats
+
 <br>
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssamkkim&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssamkkim&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssamkkim&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ssamkkim&count_private=true&theme=algolia&border_radius=20)
 
