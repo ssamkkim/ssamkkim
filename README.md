@@ -6,7 +6,7 @@
 
 **`Software Engineer`**
 
-I'm a self-taught full-stack developer that specializes in frontend. Don't really know what else to say about myself **_yet_**, but check out everything about me and what I've made. 👇👇👇
+Don't really know what to say about myself **_yet_**, but check out everything about me and what I've made. 👇👇👇
 
 <p>
   <a href="https://www.twitter.com/scammoXX" target="_blank" rel="noreferrer"><img
