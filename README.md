@@ -64,8 +64,6 @@ Don't really know what to say about myself **_yet_**, but check out everything a
       <img  alt="Git" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
 
-<!-- Statistics -->
-
 ## 📊 Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssamkkim&layout=compact&show_icons=true&theme=algolia&border_radius=20)
@@ -75,4 +73,3 @@ Don't really know what to say about myself **_yet_**, but check out everything a
 ![GitHub Streak](https://streak-stats.demolab.com?user=ssamkkim&count_private=true&theme=algolia&border_radius=20)
 
 </div>
-<!--  End Stats Cards -->
