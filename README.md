@@ -1,14 +1,14 @@
-# 👨‍💻 Samuel Kim
+<!-- # 👨‍💻 Samuel Kim -->
 
 <!-- <p align="center">
   <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ssamkkim" />
 </p> -->
 
-**`Software Engineer`**
+<!-- **`Software Engineer`** -->
 
-Don't really know what to say about myself **_yet_**, but check out everything about me and what I've made. 👇👇👇
+<!-- Don't really know what to say about myself **_yet_**, but check out everything about me and what I've made. 👇👇👇 -->
 
-<p>
+<!-- <p>
   <a href="https://www.twitter.com/scammoXX" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/twitter/follow/scammoXX?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
   /></a>
@@ -20,9 +20,9 @@ Don't really know what to say about myself **_yet_**, but check out everything a
   </a> -->
 </p>
 
----
+<!--- -->
 
-## 🧰 Languages and Tools
+<!-- ## 🧰 Languages and Tools
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img alt="JavaScript" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -62,14 +62,14 @@ Don't really know what to say about myself **_yet_**, but check out everything a
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img alt="Git" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
+  </a> -->
 
-## 📊 Stats
+<!-- ## 📊 Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssamkkim&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssamkkim&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ssamkkim&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=ssamkkim&count_private=true&theme=algolia&border_radius=20) -->
 
-</div>
+<!-- </div> -->
