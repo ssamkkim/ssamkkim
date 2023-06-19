@@ -1,3 +1,3 @@
 **`O/`**
 
-currently contributing [@XRAY](http://github.com/helius-labs/xray)
+currently contributing @ [XRAY](http://github.com/helius-labs/xray)
